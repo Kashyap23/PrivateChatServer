@@ -1,5 +1,5 @@
 # PrivateChatServer
-This is a private chat server that is being developed to maintain high privacy and own user contro by me.
+This is a private chat server that is being developed to maintain high privacy and own user controlled only  by me.
 <h4>
 The following links provides various links to already made chat bot.We can pick and customize those code for reducing the amount of standard code which we will use.
 </h4>
